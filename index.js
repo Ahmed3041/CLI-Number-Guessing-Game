@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 // 1 Create Random Number
 // 2 User Input Number
